@@ -6,8 +6,27 @@
         <link rel="stylesheet" href="css/master.css">
         </head>
         <body>
-            <header class="header">
-               <h1>My Website</h1>
-               <p>This page will resize to the browser window. It is responsive<p/>
+   <header class="header">
+    <h1>My Website</h1>
+    <p>This page will resize to the browser window. It is responsive<p/>
+</header>
+<div id="contaniner">
+    <nav class="topnav">
+        <a herf="#">About me</a>
+        <a herf="#">History</a>
+        <a herf="#">Fun Fact</a>
+    </nav>
+
+    <div class="row">
+     <nav class="column side">
+        <h2>Site Navgation</h2>
+        <p>This is added temporily to be modified later with other nave links</p>
+      </nav>
+      <main class="column middle">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elomo</p>
+    </div>
+   </div>
+  </body>
+ </html>
 
              
